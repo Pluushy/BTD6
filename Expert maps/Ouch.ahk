@@ -1,3 +1,11 @@
+;READ THESE COMMENTS
+
+;Pixel-perfect placements for the 4 dart monkeys and 2 ninjas used early, aswell as making your arrowkeys to move 1 pixel in that direction.
+;Use the pixel-placement for shinobi-spam, drag ninjas to a place they can't be placed, and get it more precise with clicking and holding outside it's range.
+;The arrowkeys are really good for making sure you can fit everything neatly. 
+;Make sure to put atleast a pixel of space next to the alchemist when placing Shinobis, apart from the GM Ninja. That way it still prioritizes the GM Ninja.
+;I personally used Mr. BTD6 FenixKillah's guide to complete it: https://www.youtube.com/watch?v=NgcX2xS0ftw
+
 Numpad1:: ;This is the top-right dart.
 loop 1 {
 	MouseMove, 1172, 326, 3
