@@ -1,5 +1,7 @@
 ;READ THESE COMMENTS
 
+;You HAVE to use full screen with 1920x1080 or else it won't work.
+
 ;Pixel-perfect placements for the 4 dart monkeys and 2 ninjas used early, aswell as making your arrowkeys to move 1 pixel in that direction.
 ;Use the pixel-placement for shinobi-spam, drag ninjas to a place they can't be placed, and get it more precise with clicking and holding outside it's range.
 ;The arrowkeys are really good for making sure you can fit everything neatly. 
